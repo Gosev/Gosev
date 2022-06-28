@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/gmWPWpVXoXU/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/gmWPWpVXoXU?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (2 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=-9nygSaeN40">Cours JavaScript : 7 fonctions pour manipuler les tableaux</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/-9nygSaeN40?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/uC4Wd9OJNHY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=uC4Wd9OJNHY">DevActus : Remix &amp; les composants serveur React</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/uC4Wd9OJNHY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
