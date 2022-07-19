@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/LF4xogh9sko/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/LF4xogh9sko?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (2 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=2CpwxpLcxfU">What is a REST API?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/2CpwxpLcxfU?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/83VZulS0H5g/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=83VZulS0H5g">Frontend vs backend vs fullstack: which will you choose?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
