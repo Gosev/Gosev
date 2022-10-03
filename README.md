@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises : What they are, how to use them ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (2 weeks ago) <br/>
@@ -48,19 +55,19 @@
 <img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
 </td>
 </tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/FQNnj4CJagQ/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an AI create art? (a closer look at MidJourney)</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/FQNnj4CJagQ?style=flat-square"> </img> 
-</td>
-</tr>
 </table>
 
 ## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (1 day ago) <br/>
+<img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/5Es-oq-o0Qg?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/MfBXjOgef-U/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=MfBXjOgef-U">Remix vs Next JS : c&#39;est quoi Remix ?</a> (5 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/MfBXjOgef-U?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
