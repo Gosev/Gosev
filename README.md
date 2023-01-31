@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/BHgeNz1LsVE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwick:  What do the surveys say?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwik:  What Do The Surveys Say?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/BHgeNz1LsVE?style=flat-square"> </img> 
 </td>
 </tr>
