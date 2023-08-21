@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Cf0UAlcqlGs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/Cf0UAlcqlGs?style=flat-square"> </img> 
 </td>
 </tr>
