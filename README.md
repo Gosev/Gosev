@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/iTGdKpyETOc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">How to Ace a Tech Job Interview (20&#43; years of tech recruiting)</a> (4 days ago) <br/>
+<img src="https://img.shields.io/youtube/views/iTGdKpyETOc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (1 week ago) <br/>
@@ -48,19 +55,19 @@
 <img src="https://img.shields.io/youtube/views/jEJEFAc8tSI?style=flat-square"> </img> 
 </td>
 </tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/4kbgkpj7hBM/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">How I Learn A New Programming Language (by Doing)</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/4kbgkpj7hBM?style=flat-square"> </img> 
-</td>
-</tr>
 </table>
 
 ## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/YFFNVEL0Blw?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/kJrL9e5cfkE/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Muv47j75_Cw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Muv47j75_Cw">Pourquoi React Côté Serveur?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/Muv47j75_Cw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
